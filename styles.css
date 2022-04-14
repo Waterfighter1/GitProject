@@ -1,3 +1,14 @@
 body {
     background-color: teal;
+    text-align: center;
+}
+
+#heading {
+    font-size: 50px;
+    color: white;
+    font-family: 'Square Peg', cursive;
+}
+
+div {
+    background-color: rgba(255,255,255, 0.2)
 }
